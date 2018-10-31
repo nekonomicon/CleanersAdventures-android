@@ -4,7 +4,7 @@
       package="su.xash.xash3d.cad"
       android:versionCode="39"
       android:versionName="1.0.2">
-    <uses-sdk android:minSdkVersion="3" android:targetSdkVersion="23"/>
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="23"/>
     <!-- Set your application name here -->
     <application android:label="Cleaner's Adventures"
 		 android:debuggable="false"
